@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset = "UTF-8">
+    <link rel="stylesheet" href ="main.css">
+    <h1>Poem Generator!!!</h1>
+    <h6>A Markov Chain Example</h6>
+</head>
+
+<body>
+    <div class="row">  
+        <div class="column" style="background-color:#aaa;">
+            <h5>Paste In Your Inspiration and Select Number of Lines</h5>
+            <div class='line'><input type='number' id='lines' placeholder="0 lines..." max="20"></div>
+            
+            <textarea id='inputBox'></textarea>
+        </div>
+        <div class="column" style="background-color:#ddd;">
+            <h5>Your Poem</h5>
+            <div class='text'><p><button id='generate'type='submit'>Generate</button>
+            <p id='daSauce'></p>
+        </div>
+        
+    </div>
+
+
+</body>
+
+<script src = 'Romance.js'></script>
+
+
+
+</html>

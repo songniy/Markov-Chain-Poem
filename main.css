@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+h6,h5,.text{
+    text-align:center;
+}
+.line{
+    text-align:center;
+
+}
+.row{
+    display:flex
+}
+.column{
+    flex:50%;
+    padding:10px;
+    height:500px;
+}
+#inputBox{
+    height:390px;
+    width:400px;
+    padding:5px;
+    border-color: black;
+    border-width: 1px;
+}
+#daSauce{
+    text-align:center;
+    white-space:pre;
+    
+}
