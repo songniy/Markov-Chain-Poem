@@ -71,24 +71,3 @@ function run(){
 }
 run()
 
-// let value = parseText("But told you, I don't wanna go there I think you feel good, yeah, I think you're so sweet But you're thinking this all too seriously")
-
-
-// console.log(writeLine(generateWordPairs(value),10))
-
-// console.log(generatePoem("Yeah Sunday morning, rain is falling Steal some covers, share some skin Clouds are shrouding us in moments unforgettable You twist to fit the mold that I am in But things just get so crazy Living life gets hard to do And I would gladly hit the road, get up and go if I knew",25))
-
-
-// console.log(parseText('            In the town where I was born
-// Lived a man who sailed to sea
-// And he told us of his life
-// In the land of submarines
-// So we sailed up to the sun
-// 'Til we found a sea of green
-// And we lived beneath the waves
-// In our yellow submarine
-// We all live in a yellow submarine
-// Yellow submarine, yellow submarine
-// We all live in a yellow submarine
-// Yellow submarine, yellow submarine
-// And our friends are all aboard'))
